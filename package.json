@@ -1,0 +1,7 @@
+{
+  "name": "npm-package-sum",
+  "version": "0.0.1",
+  "description": "Simplest npm package",
+  "main": "index.js",
+  "license": "MIT"
+}
